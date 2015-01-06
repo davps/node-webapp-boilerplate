@@ -1,0 +1,22 @@
+{
+  "name": "node-webapp-boilerplate",
+  "version": "0.0.1",
+  "homepage": "https://github.com/davps/node-webapp-boilerplate",
+  "authors": [
+    "David P."
+  ],
+  "description": "Web app boilerplate",
+  "main": "index.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
